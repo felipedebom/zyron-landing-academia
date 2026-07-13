@@ -19,7 +19,7 @@ Landing Page desenvolvida pela **ZYRON** para academias, personal trainers e neg
 
 ## 🌐 Demonstração
 
-Em breve
+https://zyron-landing-academia.vercel.app/
 
 ## 👨‍💻 Desenvolvido por
 
